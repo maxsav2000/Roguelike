@@ -1,0 +1,3 @@
+/home/redragon/prog2/CMakeFiles/rebuild_cache.dir
+/home/redragon/prog2/CMakeFiles/edit_cache.dir
+/home/redragon/prog2/CMakeFiles/main.dir
